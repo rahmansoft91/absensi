@@ -9,8 +9,8 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <access origin="http://192.168.1.100*" />
-    <access origin="https://192.168.1.100*" />
+    <access origin="http://192.168.0.109*" />
+    <access origin="https://192.168.0.109*" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
